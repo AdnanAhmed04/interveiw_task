@@ -5,6 +5,8 @@ import rightImg from "../images/right_img.png";
 
 import write_code from "../images/write_code.png";
 import join from "../images/join.png";
+import join from '../images/join.png';
+
 
 
 export default function TwoFeatureCards() {
