@@ -4,8 +4,8 @@ import leftImg from "../images/left_img.png";
 import rightImg from "../images/right_img.png";
 
 import write_code from "../images/write_code.png";
-import join from "../images/join.png";
-import join from '../images/join.png';
+import Join from "../images/join.png";
+
 
 
 
@@ -43,7 +43,7 @@ export default function TwoFeatureCards() {
         {/* Right Card */}
         <div className="bg-[#3c517d] rounded-2xl text-white ">
            <div className='w-[80%] m-auto mt-16'>
-             <img className='w-16 h-16 mb-4' src={join} alt="" srcset="" />
+             <img className='w-16 h-16 mb-4' src={Join} alt="" srcset="" />
           <h3 className="text-2xl font-semibold mb-2">
             Join meetings in a click
           </h3>
